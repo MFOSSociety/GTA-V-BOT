@@ -15,7 +15,8 @@ Made by following tutorials by [Sentdex](https://pythonprogramming.net/)
 - mss for screen-cap (pip install mss)
 - numpy (pip install numpy)
 - opencv (pip install opencv-python)
-  Save yourself some time and do ``pip install -r requirements.txt``
+  
+  (Save yourself some time and do ``pip install -r requirements.txt``)
 
 
 
