@@ -12,6 +12,10 @@ Made by following tutorials by [Sentdex](https://pythonprogramming.net/)
 - Tensorflow-gpu (_pip install tensorflow-gpu_) 
 (_tensorflow for cpu will work, but will take a **much** longer time, possibly days, to fit the model_)
 - CUDA and CuDNN that are compatible with each other and the tensorflow version.
+- mss for screen-cap (pip install mss)
+- numpy (pip install numpy)
+- opencv (pip install opencv-python)
+  Save yourself some time and do ``pip install -r requirements.txt``
 
 
 
