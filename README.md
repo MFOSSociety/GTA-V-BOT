@@ -15,7 +15,7 @@ Made by following tutorials by [Sentdex](https://pythonprogramming.net/)
 
 
 
-# How to use : 
+# How to use : The Self-driving car
 
 Change the game resolution to 800x600. If you want to use a custom resolution, edit *monitor* dict in _trainingdatacollector.py_.
 
@@ -46,5 +46,15 @@ Use _modelfit.py_ to fit everything, make sure _alexnet.py_ is in the same direc
 After saving the model, start up the game again, position it correctly and use _testingfile.py_
 
 If all goes well then the ingame character should move according to the predicted moves made by the model you made.
+
+---
+
+# How to use : theRidiculouslySlowMurderBot
+
+clone https://github.com/tensorflow/models and move the .py file to models\research\object_detection
+
+The bot is ridiculously slow, gives a shitty frame-rate and heats up your system. What more could you ask for? :) 
+
+(_will update the bot to be faster and more accurate in the future_)
 
 
