@@ -24,6 +24,6 @@ test_y = [i[1] for i in test]
 model.fit({'input': X}, {'targets': Y}, n_epoch=EPOCHS, validation_set=({'input': test_x}, {'targets': test_y}),
     snapshot_step=500, show_metric=True, run_id=MODEL_NAME)
 
-# tensorboard --logdir=foo:C:/Users/H/Desktop/ai-gaming/log
+
 
 model.save(MODEL_NAME)
