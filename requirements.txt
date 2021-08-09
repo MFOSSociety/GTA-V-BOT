@@ -1,7 +1,7 @@
 mss==3.0.1
 pandas==0.24.2
 numpy==1.16.4
-pywin32==223
+pywin32==301
 tflearn==0.3.2
 tensorflow_gpu==1.15.0
 opencv_python==4.1.0.25
