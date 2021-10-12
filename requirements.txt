@@ -4,7 +4,7 @@ numpy==1.16.4
 pywin32==223
 tflearn==0.3.2
 tensorflow_gpu==1.15.0
-opencv_python==4.1.0.25
+opencv_python==4.1.1.26
 six==1.12.0
 tensorflow==1.15.0
 utils==0.9.0
